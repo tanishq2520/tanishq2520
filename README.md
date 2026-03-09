@@ -1,29 +1,43 @@
-[![MasterHead](https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://rishavchanda.io)
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">CSE Undergrad | Building with Code, Dreaming in AI 🤖</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2520&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2520" /> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Machine learning ,langchain , python**
-
-- 📫 How to reach me **palt02520@gmail.com**
-
-- ⚡ Fun fact **My brain refuses to start… until the deadline screams.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanishq-pal-b05b66295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanishq-pal-b05b66295/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tanish.q_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tanish.q_0/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Tanishq&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Tanishq</h1>
+<h3 align="center">B.Tech CSE Student | Exploring AI, Systems & Problem Solving</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishq2520&show_icons=true&locale=en&layout=compact" alt="tanishq2520" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq2520&show_icons=true&locale=en" alt="tanishq2520" /></p>
+### 🚀 About Me
+- 🎓 B.Tech CSE student
+- 💻 Currently learning **Data Structures & Algorithms**
+- 🤖 Interested in **AI, Backend Development**
+- 🎯 Goal: Crack **GATE 2026**
+- 🧠 Love doing creative tasks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq2520&" alt="tanishq2520" /></p>
+---
+
+### 🛠️ Tech Stack
+- Languages: C++, Python, JavaScript  
+- Web: HTML, CSS, React
+- Database: MySQL ,mongoDb
+- Tools: Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tanishqp60/
+- Email: palt02520@gmail.com
+
+---
+
+⭐ “Trying to write better code than yesterday.”
