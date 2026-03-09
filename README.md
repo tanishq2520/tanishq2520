@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Tanishq&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanishq</h1>
-<h3 align="center">B.Tech CSE Student | Exploring AI, Systems & Problem Solving</h3>
+<h2 align="center">I'm Tanishq</h2>
 
+<p align="center">
+  B.Tech CSE Student • Exploring AI • Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+DSA+and+System+Design;Building+Projects;Future+GATE+2026+Aspirant"/>
+</p>
 ---
 
 ### 🚀 About Me
@@ -21,16 +27,6 @@
 - Web: HTML, CSS, React
 - Database: MySQL ,mongoDb
 - Tools: Git, GitHub, VS Code
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq&theme=tokyonight)
 
 ---
 
