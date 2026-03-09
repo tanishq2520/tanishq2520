@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h2 align="center">I'm Tanishq</h2>
+<h2 align="center">Hi 👋 I'm Tanishq</h2>
 
 <p align="center">
   B.Tech CSE Student • Exploring AI • Problem Solver
