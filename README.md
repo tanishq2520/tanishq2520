@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+DSA+and+System+Design;Building+Projects;Future+GATE+2026+Aspirant"/>
 </p>
----
-
 ### 🚀 About Me
 - 🎓 B.Tech CSE student
 - 💻 Currently learning **Data Structures & Algorithms**
