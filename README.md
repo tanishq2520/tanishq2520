@@ -13,7 +13,7 @@
 - 🎓 B.Tech CSE student
 - 💻 Currently learning **Data Structures & Algorithms**
 - 🤖 Interested in **AI, Backend Development**
-- 🎯 Goal: Crack **GATE 2026**
+- 🎯 Goal: Crack **GATE 2027**
 - 🧠 Love doing creative tasks
 
 ---
